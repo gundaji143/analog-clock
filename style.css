@@ -38,7 +38,7 @@ body {
   border: 2px solid red;
   /* z-index: 2; */
   /* display: none; */
-  background: rgb(0, 162, 255);
+  background: rgb(0, 0, 0);
 }
 #minute {
   width: 1.5%;
@@ -47,7 +47,7 @@ body {
   left: 49.25%;
   border: 2px solid rgb(59, 7, 245);
   /* display: none; */
-  background: rgba(0, 0, 0, 0.418);
+  background: rgba(0, 0, 0, 0);
 }
 #second {
   width: 1%;
@@ -55,7 +55,7 @@ body {
   top: 20%;
   left: 49.5%;
   border: 2px solid rgb(3, 40, 245);
-  background: red;
+  background: black;
   /* background: red; */
   /* display: none; */
 }
